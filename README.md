@@ -19,6 +19,7 @@ forms a) Georeferenced TIFF images (Reference System
 WGS 84 Pseudo Merctor) and b) JPG images.
 
 Here is the area of Interest in Greece where the tiles were extracted from:
+![periohi meletis_2](https://user-images.githubusercontent.com/27006471/58387905-ba553a80-801f-11e9-9266-f5f029410b69.jpg)
 
 
 An example of raw image tile:
