@@ -29,6 +29,8 @@ An example of raw image tile:
 An example of the corresponding ground truth of the tile above according to CLC 2018:
 
 
+
 Finally, here lies the official legend of Corine Land Cover with its 44 classes.
 Our project is targeting to detect only categories from 2nd level of the legend i.e Agricultural Areas.
 The rest of the categories were labelled as non Agricultural.
+![image_large](https://user-images.githubusercontent.com/27006471/58387901-942f9a80-801f-11e9-9b93-72917d9015e3.png)
