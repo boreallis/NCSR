@@ -29,7 +29,7 @@ An example of raw image tile:
 
 
 An example of the corresponding ground truth of the tile above according to CLC 2018:
-![4 april_kef6](https://user-images.githubusercontent.com/27006471/58387919-e5d82500-801f-11e9-8228-c7b7c352a408.jpg)
+![corine sample](https://user-images.githubusercontent.com/27006471/59543388-a496af00-8f13-11e9-9ab0-0dcb958812a9.jpg)
 
 
 
