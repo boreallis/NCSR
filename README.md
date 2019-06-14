@@ -21,6 +21,7 @@ WGS 84 Pseudo Merctor) and b) JPG images.
 Here is the area of Interest in Greece where the tiles were extracted from:
 ![periohi meletis_2](https://user-images.githubusercontent.com/27006471/58387905-ba553a80-801f-11e9-9266-f5f029410b69.jpg)
 
+Data Set of Ionionet available here: http://users.iit.demokritos.gr/~exarou/ionionet/Demokritos_dataset.rar
 
 An example of raw image tile:
 ![4 april_kef6_](https://user-images.githubusercontent.com/27006471/58387888-69454680-801f-11e9-83f8-732ac3daaefd.jpg)
