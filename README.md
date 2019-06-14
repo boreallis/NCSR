@@ -24,7 +24,7 @@ Here is the area of Interest in Greece where the tiles were extracted from:
 Data Set of Ionionet available here: http://users.iit.demokritos.gr/~exarou/ionionet/Demokritos_dataset.rar
 
 An example of raw image tile:
-![4 april_kef6_](https://user-images.githubusercontent.com/27006471/58387888-69454680-801f-11e9-83f8-732ac3daaefd.jpg)
+![image sample](https://user-images.githubusercontent.com/27006471/59543373-731de380-8f13-11e9-946d-afe653cfa226.jpg)
 
 
 
