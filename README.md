@@ -1,5 +1,5 @@
 # IonioNET
-A ''Deep Learning and Remote Sensing Applications'' project aiming to detect Agricultural and Non-Agricultural land cover.
+A ''Deep Learning and Remote Sensing Applications'' project ( https://www.researchgate.net/publication/334591565_Deep_Learning_for_Agricultural_Land_Detection_in_Insular_Areas) aiming to detect Agricultural and Non-Agricultural land cover.
  The IonioNET dataset provided is Sentinel-2A images of  Zakinthos , Paxoi, Kefalonia, Lefkada, Meganisi, Ithaka,
  Corfu and Kithira islands of Ionion sea, Greece.
 
